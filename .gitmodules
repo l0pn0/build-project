@@ -1,0 +1,9 @@
+[submodule "main-config"]
+	path = main-config
+	url = https://github.com/l0pn0/main-config.git
+[submodule "extensions/ext-a"]
+	path = extensions/ext-a
+	url = https://github.com/l0pn0/ext-a.git
+[submodule "extensions/ext-b"]
+	path = extensions/ext-b
+	url = https://github.com/l0pn0/ext-b.git
